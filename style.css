@@ -1,0 +1,21 @@
+header{
+    background: linear-gradient(lightyellow, yellow);
+}
+
+div{
+    background-color: blue;
+    border-radius: 50%;
+    height: 70px;
+    width: 140px;
+    border: 1px solid black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.extra{
+    background: linear-gradient(lightyellow, yellow);
+    border:none;
+    border-radius: 0%;
+    width: 100%;
+}
